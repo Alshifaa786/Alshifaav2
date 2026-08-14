@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%">
+  <!-- Al Shifaa Care Home Limited Official Exact Logo -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&amp;display=swap');
+      .brand-title {
+        font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 900;
+        fill: #152A55;
+        font-size: 88px;
+        letter-spacing: 0.08em;
+        text-anchor: middle;
+      }
+      .brand-subtitle {
+        font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 800;
+        fill: #152A55;
+        font-size: 38px;
+        letter-spacing: 0.28em;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <!-- Clean Background -->
+  <rect width="100%" height="100%" fill="#FFFFFF" />
+
+  <g id="logo-mark">
+    <!-- Dark Navy Crescent Moon -->
+    <path
+      d="M 290 75
+         C 260 120 220 220 220 330
+         C 220 470 330 585 470 600
+         C 525 605 575 590 625 560
+         C 555 580 470 565 400 520
+         C 310 460 270 360 285 255
+         C 295 190 330 130 380 90
+         Z"
+      fill="#152A55"
+    />
+
+    <!-- Brain Illustration Nested in Crescent -->
+    <g id="brain-lobes">
+      <!-- Yellow/Orange Top-Left Lobe -->
+      <path
+        d="M 505 150
+           C 485 148 460 155 440 170
+           C 415 190 395 210 390 235
+           C 385 260 395 285 410 305
+           C 400 320 405 340 420 350
+           C 435 360 455 355 470 340
+           C 485 345 505 340 520 325
+           C 535 310 540 290 535 270
+           C 550 255 555 235 550 215
+           C 545 190 530 165 505 150 Z"
+        fill="#F7A81B"
+      />
+      <!-- Yellow Lobe Internal Gyri/Folds -->
+      <path d="M 445 200 C 470 190 495 210 490 235 C 485 260 460 270 440 255" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" />
+      <path d="M 425 245 C 445 250 455 280 435 295" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" />
+      <path d="M 480 260 C 510 255 520 280 500 300" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
+
+      <!-- Red/Coral Top-Right Lobe -->
+      <path
+        d="M 525 160
+           C 545 150 575 155 595 165
+           C 625 180 655 205 665 235
+           C 675 265 665 295 645 315
+           C 630 325 610 325 595 315
+           C 580 325 560 325 545 315
+           C 530 300 525 280 530 260
+           C 520 240 520 215 525 190
+           C 520 175 520 165 525 160 Z"
+        fill="#E84E38"
+      />
+      <!-- Red Lobe Internal Gyri/Folds -->
+      <path d="M 560 185 C 585 180 610 200 605 225 C 600 250 575 255 555 245" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" />
+      <path d="M 615 215 C 640 230 645 260 625 275" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
+      <path d="M 570 265 C 595 260 605 285 585 300" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
+
+      <!-- Purple/Lavender Bottom-Left Lobe -->
+      <path
+        d="M 470 340
+           C 455 350 445 365 450 380
+           C 455 400 475 415 500 415
+           C 530 415 555 405 575 395
+           C 600 385 620 375 625 355
+           C 628 340 620 325 605 318
+           C 590 310 570 315 555 325
+           C 535 330 515 325 500 330
+           C 485 332 475 335 470 340 Z"
+        fill="#9368B7"
+      />
+      <!-- Purple Lobe Internal Gyri/Folds -->
+      <path d="M 480 375 C 510 365 540 375 560 360 C 580 345 595 355 605 365" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" />
+      <path d="M 515 390 C 545 385 570 390 585 375" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
+
+      <!-- Green Bottom-Right Lobe -->
+      <path
+        d="M 610 320
+           C 625 315 645 320 660 330
+           C 680 345 690 365 685 385
+           C 680 405 660 418 640 420
+           C 625 420 615 410 610 395
+           C 605 375 600 355 605 335
+           C 605 328 608 322 610 320 Z"
+        fill="#38B468"
+      />
+      <!-- Green Lobe Internal Gyri/Folds -->
+      <path d="M 635 340 C 655 355 665 375 650 395" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" />
+      <path d="M 625 370 C 640 375 645 390 635 405" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" />
+
+      <!-- Dark Navy Brain Stem / Cerebellum Base -->
+      <path
+        d="M 540 405
+           C 560 400 585 395 615 400
+           C 645 405 665 415 660 435
+           C 655 450 635 460 610 460
+           C 595 460 585 470 580 485
+           C 575 495 565 495 560 480
+           C 555 465 545 450 540 435
+           C 535 420 535 410 540 405 Z"
+        fill="#152A55"
+      />
+    </g>
+  </g>
+
+  <!-- Exact Brand Typography -->
+  <text x="400" y="650" class="brand-title">AL SHIFAA</text>
+  <text x="400" y="715" class="brand-subtitle">CARE HOME LIMITED</text>
+</svg>
